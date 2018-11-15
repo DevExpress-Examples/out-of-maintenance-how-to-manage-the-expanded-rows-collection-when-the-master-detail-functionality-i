@@ -1,3 +1,12 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Category.cs](./CS/Models/Category.cs) (VB: [Category.vb](./VB/Models/Category.vb))
+* [DataHelper.cs](./CS/Models/DataHelper.cs) (VB: [DataHelper.vb](./VB/Models/DataHelper.vb))
+* [Product.cs](./CS/Models/Product.cs) (VB: [Product.vb](./VB/Models/Product.vb))
+* **[CategoryView.cs](./CS/View/CategoryView.cs) (VB: [CategoryView.vb](./VB/View/CategoryView.vb))**
+* [CategoryViewModel.cs](./CS/ViewModel/CategoryViewModel.cs) (VB: [CategoryViewModel.vb](./VB/ViewModel/CategoryViewModel.vb))
+<!-- default file list end -->
 # How to manage the expanded rows collection when the Master-Detail functionality is used
 
 
